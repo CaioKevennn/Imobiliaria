@@ -13,3 +13,17 @@ article{
     justify-content: space-between;
     align-items: center;
 }
+.logo{
+    width: 75px;
+    height: 64px;
+    margin-left: 20px;
+}
+.img_logo{
+    width: 100%;
+}
+.menu{
+    margin-right: 20px;
+    transform: rotate(90deg);
+    color:#AA8453 ;
+    font-weight: bolder;
+}
