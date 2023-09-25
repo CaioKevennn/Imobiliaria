@@ -27,3 +27,28 @@ article{
     color:#AA8453 ;
     font-weight: bolder;
 }
+.principal{
+    background-color: #272727;
+    width: 100%;
+    height: 396px;
+    
+
+}
+.title{
+    font-family: 'Gilda Display', serif;
+    color: #ffffff;
+    font-size: 24px;
+    display: block;
+}
+.container_form{
+    display: block;
+}
+label{
+    color: #AA8453;
+    
+
+}
+.button{
+    display: block;
+
+}
