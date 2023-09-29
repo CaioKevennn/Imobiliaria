@@ -88,7 +88,54 @@ select{
     font-family: 'Gilda Display', serif;
     color: #ffffff;
     font-size: 20px;
-    
+}
+.opportunities{
+    background-color: #343434;
+    width: 100%;
+    height: 790px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.subtitle{
+    margin: 25px 40px;
+}
 
+.container_cards{
+    
+}
+.card{
+    width: 100%;
+    height: 132px;
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    background-color: #222222;
 
 }
+.card_img{
+    width: 180px;
+    width: 132px;
+}
+.img{
+    width: 100%;
+}
+.card_descripiton{
+    width: 280px;
+    height: 220px;
+}
+.about{
+    width: 100%;
+    height: 174px;
+    background-color: #222222;
+    color: #ADADAD;
+
+}
+.footer{
+    width: 100%;
+    height: 43px;
+    background-color:#343434 ;
+    color: #AA8453;
+}
+
