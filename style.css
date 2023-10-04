@@ -286,4 +286,17 @@ select{
     margin-bottom: 20px;
     margin-top:15px;
 }
-/*About Oage*/
+/*About page*/
+.text_about{
+    color:#ADADAD;
+    width: 80%;
+    text-align: justify;
+    margin-bottom: 1em;
+}
+/*Alert page*/
+.text_about{
+    color:#ADADAD;
+    width: 80%;
+    text-align: justify;
+    margin-bottom: 1em;
+}
