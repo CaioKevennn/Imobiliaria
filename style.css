@@ -267,3 +267,8 @@ select{
     width: 80%;
     text-align: center;
 }
+/*Register Page*/
+.login_privacy_cad{
+    margin-top: 0;
+    margin-top: 36px;
+}
