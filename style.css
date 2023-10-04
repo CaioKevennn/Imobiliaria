@@ -2,8 +2,14 @@
     padding: 0;
     margin: 0;
     font-family: 'Barlow', sans-serif;
-
 }
+a,a:visited{
+    text-decoration: none;
+    color: inherit;
+    transition: none;
+    
+}
+
 .container_standard{
     width: 100%;
     height:570px; 
@@ -43,6 +49,11 @@ article{
     transform: rotate(90deg);
     color:#AA8453 ;
     font-weight: bolder;
+    text-decoration: none;
+}
+
+.color{
+    color:#AA8453 ;
 }
 .principal{
     background-color: #272727;
